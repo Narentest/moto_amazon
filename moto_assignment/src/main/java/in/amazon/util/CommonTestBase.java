@@ -22,7 +22,7 @@ public class CommonTestBase {
 			//creating an Instance for property file
 			prop = new Properties();
 			//Locationg the path of the property file
-			String path = "E:\\Kavya_workspace\\amazon_Capgemini_Automation\\src\\test\\resources\\property\\configurations.properties";
+			String path = "E:\\Naren_workspace\\amazon_moto_Automation\\src\\test\\resources\\property\\configurations.properties";
 			//Getting data from property file with the help of path
 			FileInputStream fis = new FileInputStream(path);
 			//Loading  the inputs from property file
