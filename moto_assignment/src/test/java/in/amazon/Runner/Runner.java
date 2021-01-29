@@ -4,7 +4,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @CucumberOptions(features=
-"E:\\Kavya_workspace\\amazon_Capgemini_Automation\\src\\test\\resources\\feature\\Endtoend.feature",//the path of the feature file
+"E:\\Naren_workspace\\amazon_Moto_Automation\\src\\test\\resources\\feature\\Endtoend.feature",//the path of the feature file
 glue= {"in/amazon/step"},//the path of the step definition file
 format= {"progress", "json:target/cucumber-reports/CucumberTestReport.json"},//this generates different types of reporting
 plugin= {"json:target/cucumber-reports/CucumberTestReport.json"},//Specifies different formatting options for the output report
