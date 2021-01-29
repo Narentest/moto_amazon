@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="078a5c4d-5c6f-4bc0-b268-759f77f2eaa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Cognizant/Homepage_Steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cognizant/TestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/.idea/dictionaries/deekondanarender.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/OIshoppinglist-rbs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/features/Scenario1.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/features/Scenario2.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/features/Scenario3.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/java/Step_definitions/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/java/Step_definitions/Scenario1_Steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/java/Step_definitions/Scenario2_Steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/java/runner/BddRunnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/src/test/java/utils/org.openintents.shopping_100213.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/target/test-classes/Step_definitions/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/target/test-classes/Step_definitions/Scenario1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OIshoppinglist-rbs/target/test-classes/runner/BddRunnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/.idea/dictionaries/deekondanarender.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/cognizant.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/src/main/resources/Features/Homepage.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/src/test/java/Step_definitions/Homepage_Steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/src/test/java/runner/BddRunnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cognizant/target/classes/Homepage.feature" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="moto_assignment" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ama</find>
+      <find>Harry Potter and the Pholosphoer Stone</find>
+      <find>Best Seller</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Harry Potter and the Philosopher's Stone</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/property_files/configuration_properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/feature_files/Books_Buying_e2e.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/ResultsProductPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/CreateYourAmazonAccountpage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon_e2e/util/CommonTestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/SearchProductPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon_e2e/step_defs/SelectBookStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/amazon_e2e_runner/RunnerTestNg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon_e2e/step_defs/CheckOutStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon_e2e/step_defs/VerifyBookInfoStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/amazon_e2e_runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/amazon_e2e_runner/RunnerFile.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/feature_files/Book_Buying_e2e.feature" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.5.2/libexec" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="184" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="moto_assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moto_assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moto_assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Book_Buying_e2e">
+    <configuration name="Feature: Book_Buying_e2e" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/feature_files/Book_Buying_e2e.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="moto_assignment" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Book_Buying_e2e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Searching for the User Wished Book from Amazon" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/feature_files/Book_Buying_e2e.feature" />
+      <option name="GLUE" value="amazon_e2e.step_defs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="moto_assignment" />
+      <option name="NAME_FILTER" value="^Searching for the User Wished Book from Amazon$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Searching for the User Wished Book from Amazon$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Searching for the User Wished Book from Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerFile" type="TestNG">
+      <module name="moto_assignment" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="/moto_assignment/src/test/java/amazon_e2e_runner/RunnerFile" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <module name="moto_assignment" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="amazon_e2e_runner/RunnerFile" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: Book_Buying_e2e" />
+      <item itemvalue="Cucumber java.Scenario: Searching for the User Wished Book from Amazon" />
+      <item itemvalue="TestNG.RunnerFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Book_Buying_e2e" />
+        <item itemvalue="Cucumber java.Scenario: Searching for the User Wished Book from Amazon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="078a5c4d-5c6f-4bc0-b268-759f77f2eaa6" name="Default Changelist" comment="" />
+      <created>1611493498839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611493498839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Feature__Book_Buying_e2e - 2021.01.26 at 02h 03m 28s.xml">
+      <configuration name="Feature: Book_Buying_e2e" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__Book_Buying_e2e - 2021.01.28 at 01h 34m 15s.xml">
+      <configuration name="Feature: Book_Buying_e2e" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__Book_Buying_e2e - 2021.01.28 at 01h 36m 16s.xml">
+      <configuration name="Feature: Book_Buying_e2e" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Searching_for_the_User_Wished_Book_from_Amazon - 2021.01.28 at 01h 36m 54s.xml">
+      <configuration name="Scenario: Searching for the User Wished Book from Amazon" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="RunnerFile - 2021.01.28 at 13h 26m 58s.xml">
+      <configuration name="RunnerFile" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunnerFile - 2021.01.28 at 13h 27m 01s.xml">
+      <configuration name="RunnerFile" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunnerFile - 2021.01.28 at 13h 28m 09s.xml">
+      <configuration name="RunnerFile" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Feature__Book_Buying_e2e - 2021.01.28 at 13h 28m 43s.xml">
+      <configuration name="Feature: Book_Buying_e2e" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__Book_Buying_e2e - 2021.01.28 at 13h 30m 15s.xml">
+      <configuration name="Feature: Book_Buying_e2e" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="184" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5009242" side_tool="true" weight="0.24248926" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4990758" visible="true" weight="0.24606581" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49928468" visible="true" weight="0.29912025" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32844576" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49928468" weight="0.3929619" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" x="476" y="153" width="448" height="675" id="Run" order="10" sideWeight="0.5007153" side_tool="true" weight="0.33209416" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32844576" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/property_files/configuration_properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/ProductdetailPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/ResultsProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/AmazonSigninPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/CreateYourAmazonAccountpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/step_defs/SelectBookStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/amazon_e2e_runner/RunnerFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/page_factory/SearchProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/step_defs/VerifyBookInfoStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/util/CommonTestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/feature_files/Book_Buying_e2e.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon_e2e/step_defs/CheckOutStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>moto_assignment</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-databind:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
