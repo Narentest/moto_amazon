@@ -21,7 +21,7 @@ Scenario Outline: Buying all the products present in the cart Test Scenario
 	
 #Using Scenario with DataTable List
 @EndtoEnd1	
-Scenario: Selecting a product and buying that perticular product Test Scenario
+Scenario: Selecting a perticular product Test Scenario
 
 	Given user opens the browser 
 	When user clicks on Accounts & Lists 
@@ -36,7 +36,7 @@ Scenario: Selecting a product and buying that perticular product Test Scenario
 	Then user selects any one option
 	Then user clicks on Books
 	Then user clicks on product
-	Then user clicks on buynow
+	
 	
 #Using Scenario with DataTable Maps
 @EndtoEnd2
