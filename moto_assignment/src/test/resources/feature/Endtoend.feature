@@ -17,7 +17,7 @@ Scenario Outline: Buying all the products present in the cart Test Scenario
 	Then clicks on Signout link 
 	Examples: 
 		| email      | password |
-		| 7997245776 | shylu@143 |
+		| 07997245776 | Moto@143 |
 	
 #Using Scenario with DataTable List
 @EndtoEnd1	
@@ -26,15 +26,15 @@ Scenario: Selecting a product and buying that perticular product Test Scenario
 	Given user opens the browser 
 	When user clicks on Accounts & Lists 
 	Then user enters email 
-		| 7997245776 |
+		| 07997245776 |
 	Then clicks on continue Button 	
 	Then user enters password 
-		| shylu@143 |
+		| Moto@143 |
 	And clicks on Login Button 
 	Then user clicks on menu
 	Then user selects any one option from CATEGORY
 	Then user selects any one option
-	Then user clicks on Jars and containers
+	Then user clicks on Books
 	Then user clicks on product
 	Then user clicks on buynow
 	
@@ -46,11 +46,11 @@ Scenario: Searching a product and buying that perticular product Test Scenario
 	When user clicks on Accounts & Lists 
 	Then user enters phonenumber
 	| phonenumber |
-	| 7997245776  |
+	| 07997245776  |
 	Then clicks on continue Button 	
 	Then user enters passwords
 	| passwords   |
-	| shylu@143   | 
+	| Moto@143   | 
 	And clicks on Login Button 
 	Then user search for the Product
 	Then user clicks on Search Button
